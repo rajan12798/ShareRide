@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D581C2D-830C-4A58-A0F8-B5EA2424F29B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53B3E29B-C4A3-4641-AE8F-04F91E7A709F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlaBlaCarClone/BusinessLayer/ViewModels/EditProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "53B3E29B-C4A3-4641-AE8F-04F91E7A709F - 930210b241b3fc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlaBlaCarClone.EditProfileViewModel.init() -&gt; BlaBlaCarClone.EditProfileViewModel"
+                  moduleName = "BlaBlaCarClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saheemhussain/Desktop/Simran%20IOS/BlaBlaCarClone/BlaBlaCarClone/BusinessLayer/ViewModels/EditProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "562">
+               </Location>
+               <Location
+                  uuid = "53B3E29B-C4A3-4641-AE8F-04F91E7A709F - fd6ef353fc3b7483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (()) -&gt; () in BlaBlaCarClone.EditProfileViewModel.init() -&gt; BlaBlaCarClone.EditProfileViewModel"
+                  moduleName = "BlaBlaCarClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saheemhussain/Desktop/Simran%20IOS/BlaBlaCarClone/BlaBlaCarClone/BusinessLayer/ViewModels/EditProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
